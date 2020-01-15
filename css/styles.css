@@ -1,0 +1,10 @@
+#letter {
+    display: none;
+  }
+
+.well {
+  background-image: url("tokyo.jpeg");
+  color: white;
+  font-size: 20pt;
+  text-shadow: 2px 5px #000000;
+}
